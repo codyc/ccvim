@@ -1,2 +1,3 @@
 # ccvim
-a vim env or myself
+c/c++ vim configure 
+
